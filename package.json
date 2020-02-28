@@ -1,6 +1,6 @@
 {
-  "homepage": "https://illarock.github.io/examp",
-  "name": "xam",
+  "homepage": "https://illarock.github.io/examp/",
+  "name": "examp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
