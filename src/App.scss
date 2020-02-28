@@ -1,0 +1,26 @@
+.section {
+  display: flex;
+  min-height: 100vh;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+  .form {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 360px;
+    margin: 0 auto;
+
+    h1 {
+      text-align: center;
+    }
+  }
+  .input {
+    margin-bottom: 10px;
+  }
+  .button {
+    margin-top: 20px;
+    border-radius: 30px;
+  }
+}

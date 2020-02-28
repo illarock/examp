@@ -1,0 +1,18 @@
+.login {
+  align-items: center;
+
+  .avatar {
+    width: 100px;
+    height: 100px;
+    margin: 40px auto;
+  }
+
+  .signup {
+    margin-top: 10px;
+    text-align: center;
+
+    a {
+      color: #16a085;
+    }
+  }
+}
