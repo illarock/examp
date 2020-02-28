@@ -2,7 +2,7 @@
   "name": "examp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://illarock.github.io/examp/",
+  "homepage": "https://illarock.github.io/examp",
   "dependencies": {
     "@material-ui/core": "^4.9.4",
     "@material-ui/icons": "^4.9.1",
@@ -40,6 +40,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.2.0"
+    "gh-pages": "^2.0.1"
   }
 }
